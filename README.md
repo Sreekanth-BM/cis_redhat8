@@ -1,2 +1,3 @@
-# cis_redhat8
-Inspec for CIS RedHat 8 Benchmark
+# Example InSpec Profile
+
+This example shows the implementation of an InSpec profile.
